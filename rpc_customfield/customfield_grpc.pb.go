@@ -97,5 +97,5 @@ var CustomFieldService_ServiceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "proto/customfield.proto",
+	Metadata: "customfield.proto",
 }
