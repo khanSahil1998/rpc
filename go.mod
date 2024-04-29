@@ -1,4 +1,4 @@
-module github.com/khanSahil1998/Golang-Microservices/rpc
+module github.com/khanSahil1998/rpc
 
 go 1.22.2
 
